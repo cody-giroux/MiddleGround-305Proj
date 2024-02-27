@@ -60,33 +60,25 @@ reported to the SCRUM Master cody-giroux@uri.edu.
 
 ## Decisions
 
-
+Majority based decision making with ample time to discuss features and or changes. Should not take more than a day to decide on how to proceed.
 
 ## Attendance
 
-
+Meet at least once a week within class, unacceptable to miss an entire week without prior notice or any clear communicaiation in our social channels. 
 
 ## Assignments
 
-
+Tasks will be posted on the Project Board and will be assigned at a first come first serve basis. PULL YOUR WEIGHT!! If you are having difficulty completing a picked up task, consult the group on how to proceed or ask to pass it off to another. Failure to provide substance to the project will result in conversation directly between the affiliated team member and the product owner
 
 ## Participation
 
-
-
-## Meetings
-
-
-
-## Agenda
-
-
+Talk and communicate through discord, attempt  meetings over call. Does not have to be weekly but should be within the week, say one Sunday and then the Wednesday after the next week (10 days). Be doing tasks that are posted and don't let them linger, you should always have one task in progress
 
 ## Promptness
 
+Similar to assignments, failure to comply will result in a requested conversation with the product owner.
 
-
-## Conversational Cortesies
+## Conversational Courtesies
 
 
 
