@@ -100,3 +100,9 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+![](https://github.com/cody-giroux/MiddleGround-305Proj/blob/Main-Setup/src/Cody_Giroux_Signature.png)
+
+![](https://github.com/cody-giroux/MiddleGround-305Proj/blob/Main-Setup/src/kevin_lattuada_signature.PNG)
+
+![](https://github.com/cody-giroux/MiddleGround-305Proj/blob/Main-Setup/src/Javon_Jennings_Signature.png)
