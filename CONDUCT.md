@@ -80,7 +80,7 @@ Similar to assignments, failure to comply will result in a requested conversatio
 
 ## Conversational Courtesies
 
-
+Be respectful to other team members and product owner. Listen when others are talking and take all ideas into consideration. Be a good sport and team player with participation. Even when having disagreements, you must respect the other team members. Create a community where everyone feels valued and free to express themselves.
 
 ## Attribution
 
