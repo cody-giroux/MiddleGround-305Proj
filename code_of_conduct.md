@@ -35,6 +35,7 @@ Examples of unacceptable behavior include:
   without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Minimal phone use during SCRUM meetings
 
 ## Enforcement Responsibilities
 
