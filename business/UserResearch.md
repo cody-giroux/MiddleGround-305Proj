@@ -13,4 +13,3 @@ Observation 3:
 - About 75% of participants (45 out of 60) responded that they are either Full time or part time students
 - This creates a clear image of our potential user base who would be interested in utilizing the app. As a result we can cater our choices and acctions to this specific demographic, or pivot based on the feedback
 
-- 
