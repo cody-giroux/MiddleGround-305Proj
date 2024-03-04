@@ -109,3 +109,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 ![](https://github.com/cody-giroux/MiddleGround-305Proj/blob/Main-Setup/src/Javon_Jennings_Signature.png)
 
 ![](https://github.com/cody-giroux/MiddleGround-305Proj/blob/Main-Setup/src/Kenny_Demola_signature.png)
+
+![](https://github.com/cody-giroux/MiddleGround-305Proj/blob/Main-Setup/src/connor_leuteritz_signature.png)
