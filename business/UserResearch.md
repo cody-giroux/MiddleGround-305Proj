@@ -13,3 +13,8 @@ Observation 3:
 - About 75% of participants (45 out of 60) responded that they are either Full time or part time students
 - This creates a clear image of our potential user base who would be interested in utilizing the app. As a result we can cater our choices and acctions to this specific demographic, or pivot based on the feedback
 
+
+Observation 4:
+- The majority of people in who took the servey, only cared about meeting in person, rather than an online meet feature.
+- Over 70% of the people voted that they would rather meet in person.
+- From this data we know that we do not have to focus on an additional online hangout feature for our app.
