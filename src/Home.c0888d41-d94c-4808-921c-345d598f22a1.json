@@ -1,0 +1,99 @@
+{
+    "type": "Screen",
+    "translatedName": "Screen",
+    "reactType": "ViewWithProps",
+    "properties": {
+        "Height": "Fill container",
+        "Width": "Fill container",
+        "Layout": "column",
+        "BackgroundColor": "rgba(132, 235, 145, 1)",
+        "Justification": "center",
+        "Alignment": "center",
+        "Visible": true,
+        "style": {
+            "marginTop": 0,
+            "marginBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "shadowColor": "rgba(0, 0, 0, 0)",
+            "shadowOpacity": 0,
+            "scaledShadowOpacity": 0,
+            "shadowRadius": 0,
+            "shadowOffset": {
+                "width": 0,
+                "height": 0
+            },
+            "flexDirection": "column",
+            "justifyContent": "center",
+            "alignItems": "center",
+            "display": "flex",
+            "backgroundColor": "rgba(132, 235, 145, 1)"
+        },
+        "ShowStatusBar": true,
+        "StatusBarStyle": "default",
+        "TranslucentStatusBar": false,
+        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "TabNavigationOptions": {
+            "tabBarVisible": true
+        },
+        "ScreenOrientation": "portrait",
+        "DesignerHeight": 667,
+        "DesignerWidth": 375,
+        "ResponsiveWidth": 375,
+        "isSimple": true
+    },
+    "children": [
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "5.png",
+                "resizeMode": "stretch",
+                "Height": 199,
+                "Width": 237,
+                "Visible": true,
+                "X": 69,
+                "Y": 37,
+                "RelativeX": 69,
+                "RelativeY": 37,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "27.920003255208332%",
+                    "top": "6.456769174006746%",
+                    "display": "flex"
+                },
+                "ParentId": "c0888d41-d94c-4808-921c-345d598f22a1",
+                "position": "absolute",
+                "edgeOffsets": 37
+            },
+            "children": [],
+            "id": "658dcda7-7d22-4793-bcc9-e837085efbc1",
+            "thunkableVersion": 448,
+            "name": "Image4"
+        }
+    ],
+    "id": "c0888d41-d94c-4808-921c-345d598f22a1",
+    "thunkableVersion": 447,
+    "name": "Home"
+}
