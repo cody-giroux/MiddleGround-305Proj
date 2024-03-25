@@ -17,7 +17,18 @@ Now you have your hypothesis, the next is to plan how you are going to measure y
 
 # Kevin
 
-<!--type here-->
+A/B Test Name: Location-Based Event Planning Feature, User Story Number: #3 Adoption (from the HEART grid): Adoption, Adoption Hypothesis: Implementing a location-based event planning feature in the app will increase user adoption by simplifying the process of discovering and creating events based on users' geographic preferences.
+
+Experiments:
+Control Group: Users without access to the preference-based event planning feature.
+Experimental Group: Users with access to the preference-based event planning feature.
+
+Variations:
+Control Group: Users will continue using the app's existing event discovery and creation features.
+Experimental Group: Users will have access to the new preference-based event planning feature, allowing them to discover and create events based on their current location or specified activity preferences.
+
+Both groups will be observed over a set period to measure adoption metrics such as the number of users utilizing the event planning feature, the frequency of event creation, and the retention rate of users who engage with the feature. Surveys or feedback forms may be utilized to gather qualitative data on user satisfaction and perceived usefulness of the feature.
+
 
 # Cody
 
