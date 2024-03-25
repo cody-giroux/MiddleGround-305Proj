@@ -13,7 +13,22 @@ Now you have your hypothesis, the next is to plan how you are going to measure y
 
 # Javon
 
-<!--type here-->
+A/B Test Name: Location Selection
+User Story Number: 3
+Metric (from the HEART grid): Happiness
+Hypothesis: Allowing users to set location based off where they currently are will allow people to have a better user experience than having to type in their locations.
+
+Experiments: 
+
+Control Group: Control group will have to type in their location when they want to set it.
+Experimental Group: Experimental group can just push a button and use their current location.
+
+Variations:
+Control Group: Control group will use the app as normal.
+Experimental Group: This group will use the updated app with the new button to set current location to hopefully have a smother and better experience when setting their location.
+
+Both groups will use their version for some time, and we will be able to collect metrics to see which group is more fond of their set up. This will allow us to choose the one that best fits in with happiness in the HEART framework.
+
 
 # Kevin
 
