@@ -75,5 +75,15 @@ Implementing a dark mode theme in the app will increase user engagement by provi
 
 
 # Connor
+- A/B Test Name: Main User Interface Testing
+- User Story Number: 4
+- Metric (from the HEART grid): Engaguement
+- Hypothesis:
+  User interaction and interface can play a significant role in how someone percieves an app. By creating variations of where the home page navigation bar sits, we can test how users interact accordingly. The theory is that often times users enjoy apps with navigation bars at the bottom due to phone navigation in relation to their thumbs. One or two hands are often at the bottom of the phone for optimal dexterity, but this could not be the case. By creating a fresh look with a unique navigation bar we could pull in users based on the design choices we make with user interractions on the home page. My personal hypothesis is that bottom bar navigation is tried and true with numerous examples in place. But I'd love to hear what chat thinks. 
+  
+- Experiment - The goal is to release two versions of a home page. A version consisting of a bottom navigation bar, and B with a file system navigation bar that slides out from the left. This way the search bar may remain at the top, and the keyboard is still usable when searching, just the navigation is then hidden. 
 
-<!--type here-->
+  
+- Variations - A: Navigation at the bottom, search at the top
+  B: a file system that slides out from the left side, with the search bar at the top. 
+
