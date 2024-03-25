@@ -49,7 +49,30 @@ Surveys or feedback forms may be utilized to gather qualitative data on user sat
 
 # Kenny
 
-<!--type here-->
+# A/B Tests
+
+- A/B Test Name: Dark Mode Theme
+-  User Story Number:
+- Metric (from the HEART grid): Engagement
+- Hypothesis:
+Implementing a dark mode theme in the app will increase user engagement by providing a more comfortable viewing experience, especially during nighttime usage or in low-light environments.
+
+- Experiment:
+  Setup:
+- Control Group: Users without access to the dark mode theme.
+- Experimental Group: Users with access to the dark mode theme.
+- Both groups will have equal exposure to other app features except for the presence of the new theme for the experimental group.
+- Firebase Remote Config will allocate users randomly to the control and experimental groups.
+
+- Tracking:
+- Firebase Analytics will monitor metrics such as session duration, screen views, and user interactions.
+- Success metrics will include user engagement metrics such as session duration, screen views, and interactions within the app.
+
+- Variations:
+- Control Group: Users will continue using the app with its default light mode theme.
+- Experimental Group: Users will have access to the new dark mode theme, allowing them to switch between light and dark themes based on their preference or ambient lighting conditions.
+- The variation will include a toggle switch in the app settings for users to easily switch between light and dark modes.
+
 
 # Connor
 
