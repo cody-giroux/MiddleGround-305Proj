@@ -67,7 +67,7 @@ Surveys or feedback forms may be utilized to gather qualitative data on user sat
 
 A/B Test Name: Dark Mode Theme
 User Story Number: 4
-Metric (from the HEART grid): Engagement
+Metric: Engagement
 Hypothesis: Implementing a dark mode theme in the app will increase user engagement by providing a more comfortable viewing experience, especially during nighttime usage or in low-light environments.
 
 Experiment:
