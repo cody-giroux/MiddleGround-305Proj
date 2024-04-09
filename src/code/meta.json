@@ -1,0 +1,385 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": [
+                        {
+                            "type": "Web API",
+                            "translatedName": "Web API",
+                            "isApi": true,
+                            "reactType": "Web",
+                            "properties": {
+                                "URL": "https://us-central1-middleground-8cdd3.cloudfunctions.net/calculateMidpoint?lat1="
+                            },
+                            "children": [],
+                            "id": "4720953f-9a7c-4bbc-aad7-d0702f784a53",
+                            "thunkableVersion": 451,
+                            "name": "calculateMidpoint"
+                        },
+                        {
+                            "type": "Web API",
+                            "translatedName": "Web API",
+                            "isApi": true,
+                            "reactType": "Web",
+                            "properties": {
+                                "URL": "https://us-central1-middleground-8cdd3.cloudfunctions.net/getUserCoordinates?username="
+                            },
+                            "children": [],
+                            "id": "911e1167-9ea3-4246-b0ed-3a5cfda3b965",
+                            "thunkableVersion": 451,
+                            "name": "getUserCoordinates"
+                        },
+                        {
+                            "type": "Web API",
+                            "translatedName": "Web API",
+                            "isApi": true,
+                            "reactType": "Web",
+                            "properties": {
+                                "URL": "https://us-central1-middleground-8cdd3.cloudfunctions.net/checkUsernameExists?username="
+                            },
+                            "children": [],
+                            "id": "caf31d54-0454-4f24-bb1d-a540133296b2",
+                            "thunkableVersion": 450,
+                            "name": "check_usernames"
+                        }
+                    ]
+                }
+            },
+            "assets": {
+                "65f87d8395258c5703cda7a9": {
+                    "name": "MiddleGround_2.webp",
+                    "originalname": "MiddleGround_2.webp",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7a9",
+                    "backendURI": "/project/65f87d8395258c5703cda7a6/getasset/65f87d8395258c5703cda7a9",
+                    "size": "15334",
+                    "mimetype": "image/webp",
+                    "encoding": "7bit",
+                    "_id": "65f87d8395258c5703cda7a9",
+                    "createdAt": "2024-03-07T16:49:46.955Z",
+                    "updatedAt": "2024-03-07T16:49:46.955Z",
+                    "__v": 0,
+                    "id": "65f87d8395258c5703cda7a9",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7a9?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240408T154311Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=47522bb8c2cebedbbc10eac24002caa00e457d7d510b528468bc67271f39f4238c8a2b064e2c5b89f8620de0c5e2eb7077bfe7c813342717d0b0bc8f05eddd23838f978cde6c17507f18b8d098d754a5f2477ed5d82afccb3eb48f3bca232852bf262ada4065b1a741eeb84e7c6cb5a0ee0a300691b5df2a6cdd2e94565f756d1697bf61a50156b61ef8a68a79e550da3740525b46b4a1f490b4bea6637af1696cd0a1784dad276af5565b8da00a4bab6c22601a30277ae75d95968d5ad8215dfe3aab5263b8c496ffbf4a3169692b5e542a81599bcd013c4bdf38d8922018d83814e579611efc3bc6949be4dda850459c2c6ee42498977591c46db0fd314f7c",
+                    "signedUrlExpirationTime": 1712763791083
+                },
+                "65f87d8395258c5703cda7ab": {
+                    "name": "3.png",
+                    "originalname": "3.png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7ab",
+                    "backendURI": "/project/65f87d8395258c5703cda7a6/getasset/65f87d8395258c5703cda7ab",
+                    "size": "14688",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65f87d8395258c5703cda7ab",
+                    "createdAt": "2024-03-13T01:14:23.781Z",
+                    "updatedAt": "2024-03-13T01:14:23.781Z",
+                    "__v": 0,
+                    "id": "65f87d8395258c5703cda7ab",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7ab?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240408T154311Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a5af4d6c464f03047fc60042d986451605ba5b3df78d3be1e28d56d04bb19141ce57fc25b589c49f0490be5987b83ca9803a63e9cc54b4d0b56d0c8d4e0507062884df61b4edefa33f38cd0eb805072f9b91071fe1bcb441909e8197ef4e673ce578861e5522ee71791df722a7d9cd5bcc738e1c6e9cda157f352228d9ace85fc902d0fca60a51bbfebc9190cbb166e2147a775087e33b0f2788580d6aaf1f5f43b3e7e522a99a3dcaa3871d16c2cff3761de24821978b76d8588b3d75508861efcd412d50d9b6badd425e6ad8f56c5b68c097ef059650cf9b1ead0e76ba97da8851e9e74c6916affa8621430dbbd2c32a64a6a4c876fc43dfd369068f836318",
+                    "signedUrlExpirationTime": 1712763791086
+                },
+                "65f87d8395258c5703cda7ad": {
+                    "name": "2.png",
+                    "originalname": "2.png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7ad",
+                    "backendURI": "/project/65f87d8395258c5703cda7a6/getasset/65f87d8395258c5703cda7ad",
+                    "size": "20029",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65f87d8395258c5703cda7ad",
+                    "createdAt": "2024-03-13T01:14:47.742Z",
+                    "updatedAt": "2024-03-13T01:14:47.742Z",
+                    "__v": 0,
+                    "id": "65f87d8395258c5703cda7ad",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7ad?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240408T154311Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=685656c4ccf7b4d09e1a90a197cd3528b2c61fd9a8b8bb60ff702d64fffe1e6cd6606b952ef1bbc5a012a0fa33cff2bbfa5deb8db38b3bdb8a04fdc12b3de25b662eec40bbbef70a752d55226cfaeafdb3d85306d32599f4d0b6a9b3ab8fa011ee605ab54b61c55ebf5ba640535da49afe39997dcd9c26547c579ec665161833e72ff77b00144c931fe6079a2b406bfe770dbac7aab87bbbead61a7579735c750dbe64488661a17753e65659e69ac7388e9f2709813bda82a002146f36bc038908de1aeafc48edbaf1290114bac4d47a5cedf19368dae61dcd1145b2b910f8fd478a07ba6fabff43a0f1d1fa011df3617205bf32cd78aeac2f1bf06559616e72",
+                    "signedUrlExpirationTime": 1712763791088
+                },
+                "65f87d8395258c5703cda7af": {
+                    "name": "5.png",
+                    "originalname": "5.png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7af",
+                    "backendURI": "/project/65f87d8395258c5703cda7a6/getasset/65f87d8395258c5703cda7af",
+                    "size": "33602",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65f87d8395258c5703cda7af",
+                    "createdAt": "2024-03-13T01:15:22.802Z",
+                    "updatedAt": "2024-03-13T01:15:22.802Z",
+                    "__v": 0,
+                    "id": "65f87d8395258c5703cda7af",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65afe5c5232920be6365f1e6/projects/65f87d8395258c5703cda7a6/assets/65f87d8395258c5703cda7af?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240408T154311Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7fee1e380ec3b0deb4feeaf9b8d0438107bed1448535d6603a9930bb8b8a1bec8e239106c3c4c307dcc1e1c295230ce5598d8bb9987ce37fd7bdddac825e50d5482b933b22b402ad98b802c1bd0676277365558d4d3e53643d87578b0756b5d4aecc21ef11e9206d3eec8f2f09a2057cb5185a751546e651053db05f9c68d9ef4d94a619276f97486c788e251c5bc412b60e82c776399a71950d4b8a005681a7aecc8f0f3b2ff2e8bb964a070a2fbb2d1ddf1ac92774cc28b1e1f86e917a94fb06e9a1007093e1cf8104806e90839c9540af57b9bdb0049be6edfb63701f3288416983455cacdd354657e8ae8e17f90867961044083a0d8ac8ce789ec869213b",
+                    "signedUrlExpirationTime": 1712763791090
+                }
+            },
+            "backendUpgradeVersion": 25,
+            "blockly": {
+                "32e5c8db-b9ec-40c8-bb03-9c6ab8e543ea": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "4b744245-30fa-41a4-b5f1-86397c16098d": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "c33d1cef-9e6c-432a-be8a-60e297a41731": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "d4cf48e8-bbe7-4996-8786-e32ff921bda6": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "c0888d41-d94c-4808-921c-345d598f22a1": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "3b5bd484-20af-40a8-9988-9bab4607a352": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [
+                "Education"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "32e5c8db-b9ec-40c8-bb03-9c6ab8e543ea"
+                    },
+                    {
+                        "id": "4b744245-30fa-41a4-b5f1-86397c16098d"
+                    },
+                    {
+                        "id": "c33d1cef-9e6c-432a-be8a-60e297a41731"
+                    },
+                    {
+                        "id": "c0888d41-d94c-4808-921c-345d598f22a1"
+                    },
+                    {
+                        "id": "d4cf48e8-bbe7-4996-8786-e32ff921bda6"
+                    },
+                    {
+                        "id": "3b5bd484-20af-40a8-9988-9bab4607a352"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "MiddleGround copy1",
+            "settings": {
+                "teamId": null,
+                "appName": "MiddleGround",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyAsFoxA4cKeCb3O-GORkmtIEzNld-I306o",
+                "firebaseDatabaseURL": "https://middleground-8cdd3-default-rtdb.firebaseio.com/",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSLocationWhenInUseUsageDescription": ""
+                        }
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": "MiddleGround",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyAsFoxA4cKeCb3O-GORkmtIEzNld-I306o",
+                "firebaseDatabaseURL": "https://middleground-8cdd3-default-rtdb.firebaseio.com/",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSLocationWhenInUseUsageDescription": ""
+                        }
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "f961d7ff-4692-4bd1-a1ed-8917084145d5": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "32e5c8db-b9ec-40c8-bb03-9c6ab8e543ea"
+                },
+                "0921fe49-2c1d-48b1-bca8-7f32cf5bee19": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "32e5c8db-b9ec-40c8-bb03-9c6ab8e543ea"
+                },
+                "544b436c-463a-49e9-bdcf-168cb44eddf2": {
+                    "scope": "APP",
+                    "name": "sessionEmail",
+                    "screenId": "32e5c8db-b9ec-40c8-bb03-9c6ab8e543ea"
+                },
+                "ac88a00d-98dd-4578-ad54-9dd6f22ca0f8": {
+                    "scope": "APP",
+                    "name": "userID",
+                    "screenId": "32e5c8db-b9ec-40c8-bb03-9c6ab8e543ea"
+                },
+                "3b9488b0-2ade-4ecd-b2d5-f363f1442b5a": {
+                    "scope": "APP",
+                    "name": "friendCoords",
+                    "screenId": "c0888d41-d94c-4808-921c-345d598f22a1"
+                },
+                "73994655-24fd-42be-a353-fe5aeb81bea3": {
+                    "scope": "APP",
+                    "name": "friendLat",
+                    "screenId": "c0888d41-d94c-4808-921c-345d598f22a1"
+                },
+                "5e523cb4-c415-4f3e-9128-00287d178a9b": {
+                    "scope": "APP",
+                    "name": "friendLong",
+                    "screenId": "c0888d41-d94c-4808-921c-345d598f22a1"
+                },
+                "513036b8-ed9d-41b0-b199-e7075404691e": {
+                    "scope": "APP",
+                    "name": "midpoint",
+                    "screenId": "c0888d41-d94c-4808-921c-345d598f22a1"
+                },
+                "b3a2896c-1cfd-45e6-b5af-742a595ef52e": {
+                    "scope": "APP",
+                    "name": "midLat",
+                    "screenId": "c0888d41-d94c-4808-921c-345d598f22a1"
+                },
+                "2e9a5da3-2dde-4d73-8d21-07444e7d96f0": {
+                    "scope": "APP",
+                    "name": "midLong",
+                    "screenId": "c0888d41-d94c-4808-921c-345d598f22a1"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
