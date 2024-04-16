@@ -47,21 +47,19 @@ Both groups will be observed over a set period to measure adoption metrics such 
 
 # Cody
 
-A/B Test Name: Location-Based Event Planning Feature
-User Story Number: #4
+AB Test Name: Location Radius
+User Story Number: 4
 Metric (from the HEART grid): Engagement
-Hypothesis: Implementing a location-based event planning feature in the app will increase user engagement by providing more personalized and convenient event planning options.
 
-Experiments:
+Hypothesis: We hypothesize that by allowing users to configure the radius of locations around a midpoint to be either around 1 mile or a user-defined radius, we can increase user engagement with the location-based features of our app. The problem we aim to solve is that users may be limited by fixed location radius settings, leading to disengagement if the radius does not align with their preferences or needs. This limitation could hinder their exploration of nearby locations, potentially impacting their overall engagement with the app.
 
-Control Group: Users without access to the location-based event planning feature.
-Experimental Group: Users with access to the location-based event planning feature.
+Experiment: We will conduct this A/B test using Firebase capabilities by segmenting users into two groups: Group A will have the default location radius set to approximately 1 mile, while Group B will have the option to define their preferred radius. We will allocate 50% of our user base to each group to ensure a fair comparison. We will utilize Firebase Analytics to track user interactions with location-based features, focusing on metrics such as the number of searches conducted within the designated radius, the frequency of location updates, and the time spent exploring nearby locations.
+
 Variations:
- - Control Group: Users will continue using the app's existing event planning features.
- - Experimental Group: Users will have access to the new location-based event planning feature, allowing them to plan events based on locations equidistant among the group or around the user's general vicinity.
 
-Both groups will be observed over a set period to measure engagement metrics such as the frequency of event creation, active participation, and time spent within the app.
-Surveys or feedback forms may be utilized to gather qualitative data on user satisfaction and perceived usefulness of the feature.
+Variation A (Control Group): Users in this group will have the default location radius set to approximately 1 mile from the midpoint.
+Variation B (Experimental Group): Users in this group will be able to define their preferred radius for locations around the midpoint, providing them with more flexibility and control over their location-based experience.
+We will create mockups and designs illustrating the interface for defining the location radius in Variation B, ensuring clarity and ease of use for the users. Additionally, we will provide tooltips or onboarding messages to guide users on how to utilize this new feature effectively.
 
 # Kenny
 
