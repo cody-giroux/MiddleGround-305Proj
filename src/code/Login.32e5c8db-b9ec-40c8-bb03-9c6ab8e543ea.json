@@ -99,16 +99,16 @@
                 "Text": "Sign-up instead",
                 "TextColor": "rgba(208, 2, 27, 1)",
                 "FontSize": 16,
-                "Font": "",
+                "Font": "Pacifico",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(93, 122, 252, 100)",
                 "Height": 35,
                 "Width": 226,
                 "Visible": true,
                 "X": 75,
-                "Y": 469,
+                "Y": 468,
                 "RelativeX": 75,
-                "RelativeY": 469,
+                "RelativeY": 468,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -139,7 +139,7 @@
                 "Disabled": false,
                 "ParentId": "32e5c8db-b9ec-40c8-bb03-9c6ab8e543ea",
                 "position": "absolute",
-                "edgeOffsets": 469.99999999999994
+                "edgeOffsets": 468.9999999999999
             },
             "children": [],
             "id": "ea9e7e06-2572-4a11-8b1f-97584e2b8298",
