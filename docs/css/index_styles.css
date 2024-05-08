@@ -1,0 +1,78 @@
+/* Header styles */
+.header {
+    overflow: hidden;
+    padding: 5px;
+}
+
+.header a {
+    height: 40px;
+    float: left;
+    color: #84eb91;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 12px;
+} 
+
+.header a:hover {
+    color: #5d7afc;
+}
+
+.header a.active {
+    color: #84eb91;
+    background-color: #5d7afc;
+    border-radius: 5px;
+    
+}
+.header-right {
+    float: right;
+    margin: 12px;
+}
+
+/* Logo styles */
+#logo {
+    width: 125px;
+    height: auto;
+    margin-top: -50px;
+}
+
+/* Text styles */
+.text {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Column styles */
+.column {
+    float: left;
+    width: 60%;
+    padding: 10px 20px; /* Adjusted padding */
+}
+
+.column img {
+    width: 100%;
+    height: auto;
+}
+
+/* Heading styles */
+#h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Title styles */
+#title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    margin: 0 auto; /* Add this line to center the class */
+}
+
+
+#homePage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0 auto; /* Add this line to center the class */
+}
