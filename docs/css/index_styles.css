@@ -3,7 +3,9 @@
     overflow: hidden;
     padding: 5px;
 }
-
+.body {
+    background-color: rgb(48, 150, 62);
+}
 .header a {
     height: 40px;
     float: left;
